@@ -9,7 +9,7 @@
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigofries01&layout=compact&langs_count=7&theme=highcontrast"/>
      </a>
    </div>
-</div><br>
+</div>
   
   
   ![giphy](https://user-images.githubusercontent.com/72365134/172878747-560a555b-eada-406c-a487-a875656d46f9.gif) 
