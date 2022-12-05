@@ -6,8 +6,8 @@
    
   <div>
       <a href="https://github.com/rodrigofries01">
-        <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rodrigofries01&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-        <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigofries01&layout=compact&langs_count=7&theme=highcontrast"/>
+        <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rodrigofries01&show_icons=true&theme=highcontrast&include_all_commits=true"/>
+        <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigofries01&layout=compact&langs_count=8&theme=highcontrast"/>
      </a>
 </div><br>
   
@@ -18,7 +18,7 @@
 
 <div align="center">
  <div style="display: inline_block"><br>
-     <img align="center" alt="Git" height="30" width="40"         src="https://camo.githubusercontent.com/b7ea09b0c030ae14623cfc3a52ab3ee0d07e0259a1b230139e65ba00454327c9/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6769742d73636d2d69636f6e2e737667"> 
+     <img align="center" alt="Git" height="30" width="40"                 src="https://camo.githubusercontent.com/b7ea09b0c030ae14623cfc3a52ab3ee0d07e0259a1b230139e65ba00454327c9/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6769742d73636d2d69636f6e2e737667"> 
      <img align="center" alt="Html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
      <img align="center" alt="Css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
      <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
